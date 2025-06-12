@@ -10,10 +10,7 @@
 
 <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="270" alt="Code Animation" />
 
-- 🔭 I build blazing-fast UIs and secure APIs  
-- 🧪 Exploring: `Next.js`, `AI Integration`, `DevOps`  
-- 💬 Ask me about: `React`, `Tailwind`, `Prisma`, `Node.js`  
-- 🧠 Fun Fact: I automate everything — from memes to markdowns
+I’m a passionate AI and Data Science fresher skilled in Python, basic HTML/CSS, and SQL. I’ve built projects like a plant disease detection model and a fraud detection system, and was a finalist in IIT Bombay's Action Plan 23-24.
 
 ---
 
