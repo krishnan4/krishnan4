@@ -45,11 +45,8 @@ I’m a passionate AI and Data Science fresher skilled in Python, basic HTML/CSS
 
 ---
 
-## 📈 Contribution Graph
+ ![postspark_export_2025-06-13_09-16-44](https://github.com/user-attachments/assets/617388e0-322b-498d-af82-da54fbf36d09)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hari-krishnan&theme=react-dark&bg_color=1d1d1d&color=00bcd4&line=00f5a0&point=f5a623&area=true&hide_border=true" />
-</p>
 
 ---
 
