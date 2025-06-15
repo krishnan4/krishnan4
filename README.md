@@ -3,11 +3,10 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000¢er=true&vCenter=true&width=500&lines=Hi+I'm+HARI+KRISHNAN!;frontend+developer;Creative+Tech+Educator;Building+Cool+Things+🚀" alt="Typing Animation" />
 </h1>
----
 
-![image](https://github.com/user-attachments/assets/264b862c-e299-433d-98e2-2672ab53b62b)
+ 
 
-
+![postspark_export_2025-06-15_11-15-50](https://github.com/user-attachments/assets/7b7784ca-45c0-4a87-9cc2-31b75781830c)
 
 
 ---
