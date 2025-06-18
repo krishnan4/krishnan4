@@ -53,6 +53,12 @@ I’m a passionate AI and Data Science fresher skilled in Python, basic HTML/CSS
 ![](https://github-profile-trophy.vercel.app/?username=krishnan4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
+---
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnan4&bg_color=0d0c0d&color=b78fb5&line=732173&point=aa9d9d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ## ✍️ Dev Quote of the Day
 
