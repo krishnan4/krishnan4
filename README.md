@@ -30,6 +30,7 @@ I’m a passionate AI and Data Science fresher skilled in Python, basic HTML/CSS
   <a href="https://www.instagram.com/h._.ri._.96/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://www.linkedin.com/in/hari-krishanan-m/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:harimr1409@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/krishnan4" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
