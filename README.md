@@ -6,7 +6,8 @@
 
  
 
-![image](https://github.com/user-attachments/assets/8b8e8dc3-cb00-407e-8b34-7824faef46c5)
+![image](https://github.com/user-attachments/assets/3f2dc7c1-adca-4026-9691-ba840d11b538)
+
 
 
 
@@ -56,7 +57,7 @@ I’m a passionate AI and Data Science fresher skilled in Python, basic HTML/CSS
 ---
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnan4&bg_color=0d0c0d&color=b78fb5&line=732173&point=aa9d9d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnan4&bg_color=1d1b1d&color=d920d0&line=833483&point=aa9797&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
