@@ -6,7 +6,8 @@
 
  
 
-![image](https://github.com/user-attachments/assets/80505c66-fed0-4b6c-b520-61db2282085a)
+![image](https://github.com/user-attachments/assets/4b89ec3a-6ced-4baf-a891-5eea02645c76)
+
 
 
 
@@ -22,8 +23,7 @@
 
 <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="270" alt="Code Animation" />
 
-I’m a passionate AI and Data Science fresher skilled in Python, basic HTML/CSS, and SQL. I’ve built projects like a plant disease detection model and a fraud detection system, and was a finalist in IIT Bombay's Action Plan 23-24.
-
+**I’m a passionate AI and Data Science fresher skilled in Python, basic HTML/CSS, and SQL. I’ve built projects like a plant disease detection model and a fraud detection system, and was a finalist in IIT Bombay's Action Plan 23-24.**
 ---
 
 ## 🌐 Connect With Me
