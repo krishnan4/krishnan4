@@ -29,6 +29,7 @@
 
 ## 🌐 Connect With Me
 
+
 <p align="center">
   <a href="https://www.instagram.com/h._.ri._.96/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://www.linkedin.com/in/hari-krishanan-m/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
@@ -39,6 +40,7 @@
 ---
 
 ## 🧰 Tech Stack
+<img align="right" src="https://miro.medium.com/v2/resize:fit:1400/1*IO0G2ygwIml_NGAv26Na4w.gif" width="270" alt="Code Animation" />
 
 ### 💻 Languages & Frameworks
 <p align="center">
