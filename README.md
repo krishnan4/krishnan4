@@ -24,7 +24,9 @@
 
 <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="270" alt="Code Animation" />
 
+
 **I’m a passionate AI and Data Science fresher skilled in Python, basic HTML/CSS, and SQL. I’ve built projects like a plant disease detection model and a fraud detection system, and was a finalist in IIT Bombay's Action Plan 23-24.**
+
 ---
 
 ## 🌐 Connect With Me
@@ -39,8 +41,7 @@
 
 ---
 
-## 🧰 Tech Stack
-<img align="right" src="https://miro.medium.com/v2/resize:fit:1400/1*IO0G2ygwIml_NGAv26Na4w.gif" width="270" alt="Code Animation" />
+## 🧰 Tech Stack  
 
 ### 💻 Languages & Frameworks
 <p align="center">
@@ -60,7 +61,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=krishnan4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
----
+----![run-unscreen](https://github.com/user-attachments/assets/9a5a1176-e7d4-4173-ac55-2d0a8969d3ad)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnan4&bg_color=1d1b1d&color=d920d0&line=833483&point=aa9797&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
