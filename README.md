@@ -6,7 +6,8 @@
 
  
 
-![image](https://github.com/user-attachments/assets/563c2716-8c69-4ae8-b6c0-db0b76efdce8) 
+![image](https://github.com/user-attachments/assets/f1b90890-a6a1-4ece-aab7-9975c7bd59f6)
+
 
 
 
@@ -58,10 +59,9 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=krishnan4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+!
+[](https://github-profile-trophy.vercel.app/?username=krishnan4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-----![run-unscreen](https://github.com/user-attachments/assets/9a5a1176-e7d4-4173-ac55-2d0a8969d3ad)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnan4&bg_color=1d1b1d&color=d920d0&line=833483&point=aa9797&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
