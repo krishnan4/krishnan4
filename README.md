@@ -60,12 +60,11 @@
 
 ## 🏆 GitHub Trophies
 
-!
-[](https://github-profile-trophy.vercel.app/?username=krishnan4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=krishnan4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnan4&bg_color=1d1b1d&color=d920d0&line=833483&point=aa9797&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishnan4&bg_color=1a191a&color=ae13a4&line=eee7ee&point=c809ae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
