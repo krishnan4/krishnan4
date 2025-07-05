@@ -4,18 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000¢er=true&vCenter=true&width=500&lines=Hi+I'm+HARI+KRISHNAN!;frontend+developer..;Creative+Tech+Educator;Building+Cool+Things+🚀" alt="Typing Animation" />
 </h1>
 
+
  
-
-![image](https://github.com/user-attachments/assets/939e2258-5c1b-4d68-9b6f-4c4a843a414e)
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/d6f3b0b4-e694-4275-b70c-f8961184a55e)
 
 
 
