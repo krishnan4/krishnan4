@@ -5,8 +5,7 @@
 </h1>
 
 
-<img width="3186" height="1614" alt="image" src="https://github.com/user-attachments/assets/c9cc327b-1393-4152-823f-60f4086f38de" />
-
+<img width="3186" height="1614" alt="image" src="https://github.com/user-attachments/assets/b429467a-c0f6-4aa6-8f5d-4866bbb73fd3" />
 
 
 
