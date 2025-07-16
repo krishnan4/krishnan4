@@ -5,13 +5,7 @@
 </h1>
 
 
-<img width="3186" height="1614" alt="image" src="https://github.com/user-attachments/assets/b429467a-c0f6-4aa6-8f5d-4866bbb73fd3" />
-
-
-
-
-
-
+<img width="3186" height="1614" alt="image" src="https://github.com/user-attachments/assets/017e4d67-d065-46c5-8b9d-87a87f89da4f" />
 
 
 
@@ -45,7 +39,7 @@
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,python,nodejs,Mysql,mongodb,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,python,nodejs,mysql,mongodb" />
 </p>
 
 ## 💻 My Gear Setup
