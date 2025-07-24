@@ -1,4 +1,4 @@
- 
+
 ![446884242-4a3378a3-d256-468e-8-unscreen](https://github.com/user-attachments/assets/da53a70d-bb62-4928-ae91-a36bf06a77ea) 
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000¢er=true&vCenter=true&width=500&lines=Hi+I'm+HARI+KRISHNAN!;frontend+developer..;Creative+Tech+Educator;Building+Cool+Things+🚀" alt="Typing Animation" />
